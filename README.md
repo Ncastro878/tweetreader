@@ -1,5 +1,9 @@
 # Tweet Reader
 
+<p align="center">
+  <img src="tweet-reader/banner.png" alt="Tweet Reader banner" width="600">
+</p>
+
 A Chrome extension that reads tweets aloud using the Web Speech API. Adds unobtrusive buttons to every tweet on X (formerly Twitter) for single-tweet and full-thread reading, with real-time word highlighting as it speaks.
 
 ## Features
