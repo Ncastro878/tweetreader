@@ -54,6 +54,19 @@ The extension is intentionally kept minimal — two files, no build step, no bac
 
 Chrome (desktop). Requires the Web Speech API, which is supported in all modern Chromium-based browsers.
 
+## Privacy Policy
+
+Tweet Reader does **not** collect, store, transmit, or share any user data. Specifically:
+
+- **No personal data** is collected (no names, emails, accounts, or identifiers).
+- **No browsing data** is collected or tracked.
+- **No analytics or telemetry** of any kind is used.
+- **No network requests** are made by the extension. All functionality runs locally in your browser.
+- **No third-party services** are contacted. Text-to-speech is handled entirely by your browser's built-in Web Speech API.
+- **No data leaves your device** at any time.
+
+This extension requires access to `x.com` and `twitter.com` solely to inject the reader buttons into tweet action bars. It does not read, store, or transmit any content from these sites.
+
 ## License
 
 MIT
