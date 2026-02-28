@@ -3,6 +3,11 @@
   "name": "Tweet Reader",
   "version": "1.0",
   "description": "Read tweets aloud with word highlighting, thread reading, keyboard shortcut (Alt+S), and smart text cleaning.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "content_scripts": [
     {
       "matches": [
